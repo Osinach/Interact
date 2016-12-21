@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace InteractIntranet.InteractPages
 {
-    class InteractProductPage
+    public class InteractProductPage
     {
     }
 }
