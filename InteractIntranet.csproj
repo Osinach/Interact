@@ -57,6 +57,7 @@
     <Compile Include="InteractHooks\InteractHook.cs" />
     <Compile Include="InteractPages\BookADemoPage.cs" />
     <Compile Include="InteractPages\InteractHomePage.cs" />
+    <Compile Include="InteractPages\InteractPricingPage.cs" />
     <Compile Include="InteractSpecifications\InteractBookADemo.feature.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
